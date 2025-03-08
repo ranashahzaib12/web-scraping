@@ -1,3 +1,4 @@
+
 import requests 
 
 
@@ -10,7 +11,7 @@ def fetchandsavetofile(url , path):
 
 
 url = "https://www.geo.tv/latest/594017-a-global-journey-one-faith-many-ramadan-traditions-part-i"
-
+    
 
 fetchandsavetofile(url , "times.html")
 
