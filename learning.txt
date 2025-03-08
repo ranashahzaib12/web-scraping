@@ -1,0 +1,13 @@
+use of https://tokenizer.streamlit.app/ For Token Counter
+
+use of https://www.geeksforgeeks.org/implementing-web-scraping-python-scrapy/?ref=shm 
+for leanring geeksforgeeks 
+
+USE Proxy providers for not getting blocked 
+
+https://www.freeproxylists.net/
+https://www.sslproxies.org/
+https://www.socks-proxy.net/
+
+Use and See Different tags of HTML to understand the Data you want to fetch 
+
