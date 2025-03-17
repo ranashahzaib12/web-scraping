@@ -1,0 +1,173 @@
+City,Condition,Temperature,Humidity,Wind Speed
+Kabul,Clear,+9°C,31%,↓4km/h
+Tirana,Partly,cloudy,+15°C,55%
+Algiers,Sunny,+32°C,10%,→12km/h
+Andorra la Vella,Patchy,rain,nearby,+4°C
+Luanda,Partly,cloudy,+31°C,71%
+Buenos Aires,Sunny,+26°C,51%,↓4km/h
+Yerevan,Sunny,+22°C,17%,↗4km/h
+Canberra,Clear,+9°C,81%,↖7km/h
+Vienna,Partly,cloudy,+4°C,41%
+Baku,Clear,+15°C,63%,↑27km/h
+Manama,Clear,+23°C,53%,↙16km/h
+Dhaka,Clear,+29°C,60%,↑20km/h
+Bridgetown,Partly,cloudy,+28°C,79%
+Minsk,Sunny,-1°C,40%,↓25km/h
+Brussels,Partly,cloudy,+9°C,50%
+Belmopan,Light,rain,shower,+27°C
+Porto-Novo,Partly,cloudy,+32°C,71%
+Thimphu,Patchy,rain,nearby,+4°C
+La Paz,Partly,cloudy,+9°C,76%
+Sarajevo,Partly,cloudy,+4°C,65%
+Gaborone,Overcast,+24°C,57%,↙10km/h
+Brasilia,Partly,cloudy,+28°C,51%
+Sofia,Partly,cloudy,+7°C,76%
+Ouagadougou,Sunny,+41°C,17%,←22km/h
+Gitega,Patchy,rain,nearby,+21°C
+Phnom Penh,Partly,cloudy,+30°C,75%
+Yaoundé,Partly,cloudy,+28°C,66%
+Ottawa,Partly,cloudy,-2°C,69%
+Praia,Sunny,+27°C,42%,↓32km/h
+Bangui,Rain,with,thunderstorm,+25°C
+N'Djamena,Sunny,+40°C,4%,↙14km/h
+Santiago,Partly,cloudy,+17°C,45%
+Beijing,Clear,+4°C,28%,↙12km/h
+Bogotá,Partly,cloudy,+15°C,94%
+Moroni,Clear,+27°C,82%,↑17km/h
+San José,Light,rain,+10°C,96%
+Zagreb,Light,rain,"shower,",rain
+Havana,Partly,cloudy,+24°C,74%
+Nicosia,Sunny,+22°C,78%,↙4km/h
+Prague,Sunny,+3°C,38%,↙22km/h
+Kinshasa,Patchy,rain,nearby,+28°C
+Copenhagen,Sunny,+6°C,31%,↘17km/h
+Djibouti,Patchy,rain,nearby,+27°C
+Roseau,Light,snow,-5°C,86%
+Quito,Patchy,rain,nearby,+13°C
+Cairo,Sunny,+34°C,18%,→5km/h
+San Salvador,Sunny,+28°C,55%,↓9km/h
+Malabo,Sunny,+28°C,73%,↗18km/h
+Asmara,Clear,+34°C,25%,↑16km/h
+Tallinn,Light,snow,+1°C,69%
+Mbabane,Partly,cloudy,+24°C,61%
+Addis Ababa,Partly,cloudy,+19°C,44%
+Suva,Partly,cloudy,+24°C,100%
+Helsinki,Light,snow,+1°C,69%
+Paris,Sunny,+12°C,38%,←19km/h
+Banjul,Sunny,+34°C,32%,↙13km/h
+Tbilisi,Sunny,+26°C,20%,↘16km/h
+Berlin,Sunny,+6°C,31%,↙17km/h
+Accra,Partly,cloudy,+32°C,67%
+Athens,Sunny,+8°C,42%,↘22km/h
+Guatemala City,Partly,cloudy,+20°C,73%
+Conakry,Sunny,+31°C,59%,↗25km/h
+Bissau,Sunny,+35°C,28%,↗20km/h
+Georgetown,Overcast,+4°C,65%,↘8km/h
+Port-au-Prince,Partly,cloudy,+29°C,62%
+Tegucigalpa,Partly,cloudy,+25°C,61%
+Budapest,Partly,cloudy,+3°C,81%
+Reykjavik,Partly,cloudy,+9°C,71%
+New Delhi,Haze,+24°C,47%,→12km/h
+Jakarta,"Rain,",rain,with,thunderstorm
+Tehran,Clear,+23°C,12%,↘11km/h
+Baghdad,Partly,cloudy,+28°C,28%
+Dublin,Partly,cloudy,+7°C,70%
+Jerusalem,Sunny,+29°C,27%,↘9km/h
+Rome,Partly,cloudy,+14°C,63%
+Tokyo,Clear,+12°C,46%,→18km/h
+Amman,Sunny,+26°C,20%,↘9km/h
+Nur-Sultan,Clear,+2°C,87%,↗23km/h
+Nairobi,Patchy,rain,nearby,+22°C
+Tarawa,Sunny,+41°C,4%,↙23km/h
+Kuwait City,Clear,+23°C,41%,↖16km/h
+Bishkek,Clear,+9°C,43%,↑9km/h
+Vientiane,Mist,+25°C,79%,←19km/h
+Riga,Sunny,+2°C,41%,↘14km/h
+Beirut,Sunny,+25°C,32%,↓6km/h
+Maseru,Patchy,rain,nearby,+20°C
+Monrovia,Partly,cloudy,+34°C,53%
+Tripoli,Sunny,+20°C,51%,←22km/h
+Vilnius,Sunny,+0°C,43%,↓18km/h
+Luxembourg,Partly,cloudy,+8°C,46%
+Antananarivo,Partly,cloudy,+23°C,69%
+Lilongwe,Patchy,rain,nearby,+20°C
+Kuala Lumpur,Patchy,rain,nearby,+25°C
+Male,Sunny,+42°C,6%,←19km/h
+Bamako,Sunny,+41°C,12%,←15km/h
+Valletta,Sunny,+17°C,72%,↗13km/h
+Majuro,Overcast,+28°C,79%,↙39km/h
+Nouakchott,Sunny,+28°C,40%,↘24km/h
+Mexico City,Sunny,+12°C,58%,↓8km/h
+Palikir,Overcast,+26°C,89%,←39km/h
+Chisinau,Sunny,+5°C,70%,↘13km/h
+Monaco,Partly,cloudy,+13°C,67%
+Ulaanbaatar,Clear,-8°C,67%,↓5km/h
+Podgorica,Rain,shower,+14°C,63%
+Rabat,Partly,cloudy,+21°C,60%
+Maputo,Partly,cloudy,+26°C,61%
+Naypyidaw,Clear,+27°C,29%,↖8km/h
+Windhoek,Patchy,rain,nearby,+17°C
+Kathmandu,Partly,cloudy,+20°C,35%
+Amsterdam,Sunny,+10°C,43%,←21km/h
+Wellington,Partly,cloudy,+20°C,78%
+Managua,Partly,cloudy,+29°C,66%
+Niamey,Sunny,+43°C,6%,←24km/h
+Abuja,Thunderstorm,+36°C,37%,↙5km/h
+Pyongyang,Heavy,snow,-1°C,82%
+Oslo,Sunny,+5°C,38%,→6km/h
+Muscat,Partly,cloudy,+27°C,39%
+Islamabad,Clear,+15°C,39%,↓8km/h
+Panama City,Sunny,+14°C,26%,↘28km/h
+Port Moresby,Rain,shower,+25°C,100%
+Asunción,Partly,cloudy,+30°C,49%
+Lima,Sunny,+22°C,78%,↗8km/h
+Manila,Partly,cloudy,+28°C,70%
+Warsaw,Sunny,+4°C,22%,↓18km/h
+Lisbon,Light,rain,shower,+14°C
+Doha,Clear,+24°C,47%,↙16km/h
+Bucharest,Overcast,+7°C,76%,↙24km/h
+Moscow,Partly,cloudy,-2°C,43%
+Kigali,Partly,cloudy,+28°C,40%
+Apia,Partly,cloudy,+26°C,84%
+San Marino,Partly,cloudy,+13°C,47%
+Riyadh,Patchy,rain,nearby,+24°C
+Dakar,Sunny,+24°C,61%,↓32km/h
+Belgrade,Sunny,+5°C,75%,↘21km/h
+Victoria,Clear,+11°C,73%,↑12km/h
+Freetown,Partly,cloudy,+29°C,66%
+Singapore,Partly,cloudy,+28°C,74%
+Bratislava,Sunny,+3°C,41%,↓28km/h
+Ljubljana,Light,rain,shower,+4°C
+Honiara,Patchy,rain,nearby,+26°C
+Mogadishu,Clear,+29°C,75%,↖23km/h
+Pretoria,Partly,cloudy,+21°C,64%
+Seoul,Light,snow,+1°C,93%
+Juba,Patchy,rain,nearby,+36°C
+Madrid,Overcast,+7°C,93%,↙10km/h
+Colombo,Light,rain,shower,+26°C
+Khartoum,Clear,+36°C,7%,↘20km/h
+Paramaribo,Partly,cloudy,+32°C,56%
+Stockholm,Partly,cloudy,+6°C,36%
+Damascus,Partly,cloudy,+25°C,14%
+Taipei,Partly,cloudy,+13°C,67%
+Dushanbe,Clear,+15°C,51%,↙5km/h
+Dodoma,Partly,cloudy,+27°C,54%
+Bangkok,Partly,cloudy,+30°C,75%
+Lomé,Partly,cloudy,+32°C,67%
+Tunis,Sunny,+25°C,18%,→13km/h
+Ankara,Partly,cloudy,+22°C,23%
+Ashgabat,Clear,+20°C,26%,↖9km/h
+Kampala,Partly,cloudy,+25°C,65%
+Kyiv,Light,snow,showers,+3°C
+Abu Dhabi,Clear,+23°C,73%,↘15km/h
+London,Partly,cloudy,+8°C,57%
+Washington,Partly,cloudy,+12°C,49%
+Montevideo,Sunny,+25°C,57%,↑4km/h
+Tashkent,Clear,+18°C,32%,↓9km/h
+Port Vila,Partly,cloudy,+22°C,100%
+Vatican City,Partly,cloudy,+14°C,67%
+Caracas,Sunny,+28°C,74%,↓4km/h
+Hanoi,Clear,+18°C,64%,↙9km/h
+Sana'a,Patchy,rain,nearby,+18°C
+Lusaka,Patchy,rain,nearby,+21°C
+Harare,Patchy,rain,nearby,+18°C
