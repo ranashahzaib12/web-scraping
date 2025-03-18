@@ -93,7 +93,6 @@ for city in capitals:
 
     except Exception as e:
         print(f"Error retrieving {city}: {e}")
-
     time.sleep(1)  # Pause for 1 second to avoid being blocked
 
 # Save to CSV
